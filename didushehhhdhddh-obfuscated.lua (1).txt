@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/brojstypingshit-prog/main.luau/refs/heads/main/last100-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/brojstypingshit-prog/main.luau/refs/heads/main/HollyScriptX_main%20(9)-obfuscated.lua"))()
