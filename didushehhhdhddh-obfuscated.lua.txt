@@ -1,2 +1,2 @@
--- i fack yo mama
-loadstring(game:HttpGet("https://raw.githubusercontent.com/brojstypingshit-prog/main.luau/refs/heads/main/wb1j7h1.txt"))()
+getgenv().SCRIPT_KEY = "KEYLESS"
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/59ad1327dd158b73f2e75d70095554c5315857b3ac09735f878e39c4fb768d06/download"))()
